@@ -42,7 +42,7 @@ It blends:
 
 ---
 
-### 🧪 Duress Protocol (⚠️ Unique Feature)
+### 🧪 Duress Protocol (NEED TO MAKE COOLER)
 - Enter `cleansweep` as the key
 - Returns a **fake decrypted output**
 - Designed for plausible deniability scenarios
@@ -51,8 +51,8 @@ It blends:
 
 ### 🧠 Additional Modules
 - ESPER Voight-Kampff empathy test (mini-game)
-- Wintermute Oracle (AI-style responses)
-- Digital Rain idle mode (Matrix effect)
+- Wintermute Oracle (AI-style Magic 8-ball)
+- Digital Rain idle mode (Matrix effect super cool)
 - Zalgo glitch-text generator
 - Themed terminal UI with multiple color modes
 
@@ -60,10 +60,10 @@ It blends:
 
 ## 🖥️ Interface Preview
 
-- Cyberpunk ASCII UI
-- Rolling decryption animation
-- Dynamic system logs and quotes
-- File navigation system with tab autocomplete
+- ASCII UI
+- Rolling decryption animationv (can make faster for longer messages 'SUPERCIPH')
+- Dynamic system logs and quotes (Honestly why I made this)
+- File navigation system with tab autocomplete (I remade the wheel poorly)
 
 ---
 
