@@ -1,3 +1,5 @@
+<img width="777" height="613" alt="image" src="https://github.com/user-attachments/assets/a0fc934f-0d7c-41b2-92e6-624306e30609" />
+
 **Ghost Protocol Encryption Suite (v8.4)**
 # VOID_DECK ⚡  
 
